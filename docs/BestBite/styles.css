@@ -26,9 +26,9 @@ html, body {
 
 
 /* Jumbotron */
-.jumbotron {
+div.jumbotron {
+  background:  url('https://s3.amazonaws.com/codecademy-content/projects/bestbite/bg.jpg');
   height: 500px;
-  background: url("https://s3.amazonaws.com/codecademy-content/projects/bestbite/bg.jpg");
   background-size: cover;
 }
 

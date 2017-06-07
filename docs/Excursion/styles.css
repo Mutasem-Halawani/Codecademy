@@ -12,6 +12,7 @@ html, body {
 .main {
   position: relative;
   text-align:center;
+  height: 100vh;
 }
 
 .main video {
@@ -63,15 +64,9 @@ html, body {
 }
 
 @media (max-width: 960px) {
-  .main {
-    height: 540px; 
-  }
-  .main video {
-    height: 540px; 
-    width: 1080px;
-  }
+ 
   .main h1 {
-    font-size: 32px;
+    font-size: 2rem;
   }
 }
 
@@ -82,10 +77,9 @@ html, body {
   font-weight: 300;
   padding: 16px 26px;
   text-decoration: none;
-	margin: 50px;
+    margin: 50px;
   text-align:center;
 }
-
 
 
 * h1, h2,p{

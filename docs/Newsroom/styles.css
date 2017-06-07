@@ -4,7 +4,6 @@ html, body {
   background-color: #F2F2F2;
 }
 
-
 .header{
  background: #000;
   min-height: 80px;
@@ -50,7 +49,6 @@ background-color:#152230;
    color:white;
 }
 
-
 li{
  list-style: none;
 }
@@ -95,8 +93,6 @@ span{
 .row{
   margin: 20px;
   }
-
-
 
 .sidebar{
   background-color:#152230;

@@ -86,9 +86,6 @@
         color:#fff;
       }
 
-      .supporting {
-        padding-bottom:80px; 
-      }
 
       .supporting h2, .feature h1 {
         color:#0393ff;
@@ -113,12 +110,11 @@
       .feature {
         background: url(feature.jpg) no-repeat center center;
         background-size: cover; 
-        height: 380px;
-        padding: 100px 0 0 0;
       }
 
       .feature p {
         font-size:18px; 
+        color: #0393ff;
       }
 
       .footer {
@@ -170,5 +166,12 @@
         #search {
           margin: 0 auto;
           width: 100%;
+        }
+        
+      }
+      
+      @media (max-width: 970px) {
+        img{
+            width:312px;
         }
       }

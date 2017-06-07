@@ -19,21 +19,17 @@ img{
 	  color: #333;
 }
 
-
-
 .header h1{
  font-size:20px;
 }
 
 .jumbotron {
   background-color: transparent;
-
+  
 }
 
 .jumbotron h2{
-  font-size:50px;
-  white-space: nowrap;
-  padding:90px 0;
+  font-size:5rem;
 }
 @media (max-width: 992px) {
   .col-md-4 {
@@ -44,6 +40,10 @@ img{
   .cards img {
     width: 60%;
   }
+  
+.jumbotron h2{
+    font-size:3rem;
+}
 }
 
 @media (max-width: 500px) {
@@ -79,7 +79,6 @@ img{
   text-align:center;
   padding-top:85px;
   background-color:#FFC200;
-  height:1200px;
 }
 
 .cards h2{
@@ -88,7 +87,6 @@ img{
 
 .footer{
   background-color:black;
-  padding:70px;
 }
 .footer p,h3{
   color:white;

@@ -1,6 +1,6 @@
 .container {
   max-width: 928px;
-  	padding: 50px;
+  padding: 50px;
 }
 
 h1, h2, p, a {
@@ -22,7 +22,6 @@ a {
   height: 550px;
   padding-top: 55px;
   background: url(https://s3.amazonaws.com/codecademy-content/projects/shutterbugg/intro.jpg);
- 
 }
 
 .main p {
@@ -30,8 +29,6 @@ a {
   font-weight: 200;  
   margin-bottom: 40px;
 }
-
-
 
 .section .row {
   padding-top: 50px;
@@ -53,8 +50,6 @@ a {
 .footer {
   border-top: 1px solid #dbdbdb;
   background-color: #f3f3f3;
-  
- 
 }
 
 .footer ul {
@@ -86,8 +81,6 @@ a {
   font-size:17px;
 }
 
-
-
 .btn:hover{
 color:white;
 border: solid 1px rgba(238,68,95,0.9);
@@ -96,7 +89,7 @@ box-shadow: 0 0 10px rgba(0,0,0,0.6);
  -moz-box-shadow: 0 0 10px rgba(0,0,0,0.6);
 -webkit-box-shadow: 0 0 10px rgba(0,0,0,0.6);
 -o-box-shadow: 0 0 10px rgba(0,0,0,0.6);
-   transition: .5s;
+transition: .5s;
 }
 
 
