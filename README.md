@@ -1,6 +1,6 @@
 # Codecademy
 
-Projects I've completed while learning at Codecademy.
+Projects I've completed while learning at Codecademy.<br>
 Built using Bootsrap.
 Live Views:
 <br>
