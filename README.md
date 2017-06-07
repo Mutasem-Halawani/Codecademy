@@ -3,7 +3,7 @@
 Projects I've completed while learning at Codecademy.
 Built using Bootsrap.
 Live Views:
-
+<br>
 Adobtly: https://mutasem-halawani.github.io/Codecademy/adobtly/
 ArmandoPerez: https://mutasem-halawani.github.io/Codecademy/ArmandoPerez
 Bass: https://mutasem-halawani.github.io/Codecademy/Bass
