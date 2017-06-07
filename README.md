@@ -1,21 +1,21 @@
 # Codecademy
 
 Projects I've completed while learning at Codecademy.<br>
-Built using Bootsrap.
-Live Views:
+Built using Bootsrap.<br>
+Live Views:<br>
 <br>
-Adobtly: https://mutasem-halawani.github.io/Codecademy/adobtly/
-ArmandoPerez: https://mutasem-halawani.github.io/Codecademy/ArmandoPerez
-Bass: https://mutasem-halawani.github.io/Codecademy/Bass
-BestBite: https://mutasem-halawani.github.io/Codecademy/BestBite
-BoltNetwork: https://mutasem-halawani.github.io/Codecademy/BoltNetwork
-Broadway: https://mutasem-halawani.github.io/Codecademy/Broadway
-Excursion: https://mutasem-halawani.github.io/Codecademy/Excursion
-Headlines: https://mutasem-halawani.github.io/Codecademy/Headlines
-Innovation-Cloud: https://mutasem-halawani.github.io/Codecademy/Innovation-Cloud
-Junction: https://mutasem-halawani.github.io/Codecademy/Junction
-MOVE: https://mutasem-halawani.github.io/Codecademy/MOVE
-Newsroom: https://mutasem-halawani.github.io/Codecademy/Newsroom
-Pocketbook: https://mutasem-halawani.github.io/Codecademy/Pocketbook
-https://mutasem-halawani.github.io/Codecademy/
-https://mutasem-halawani.github.io/Codecademy/
+Adobtly: https://mutasem-halawani.github.io/Codecademy/adobtly/<br>
+ArmandoPerez: https://mutasem-halawani.github.io/Codecademy/ArmandoPerez<br>
+Bass: https://mutasem-halawani.github.io/Codecademy/Bass<br>
+BestBite: https://mutasem-halawani.github.io/Codecademy/BestBite<br>
+BoltNetwork: https://mutasem-halawani.github.io/Codecademy/BoltNetwork<br>
+Broadway: https://mutasem-halawani.github.io/Codecademy/Broadway<br>
+Excursion: https://mutasem-halawani.github.io/Codecademy/Excursion<br>
+Headlines: https://mutasem-halawani.github.io/Codecademy/Headlines<br>
+Innovation-Cloud: https://mutasem-halawani.github.io/Codecademy/Innovation-Cloud<br>
+Junction: https://mutasem-halawani.github.io/Codecademy/Junction<br>
+MOVE: https://mutasem-halawani.github.io/Codecademy/MOVE<br>
+Newsroom: https://mutasem-halawani.github.io/Codecademy/Newsroom<br>
+Pocketbook: https://mutasem-halawani.github.io/Codecademy/Pocketbook<br>
+RedEyePhotography: https://mutasem-halawani.github.io/Codecademy/RedEyePhotography<br>
+Shutterbug: https://mutasem-halawani.github.io/Codecademy/Shutterbug<br>
